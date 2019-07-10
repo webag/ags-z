@@ -1,0 +1,21 @@
+@import 'base/variables';
+@import 'base/mixins';
+@import 'base/placeholders';
+
+@import 'vendors/jquery.fancybox';
+@import 'vendors/flickity';
+
+@import 'base/reset';
+@import 'base/fonts';
+@import 'base/icons';
+@import 'base/typography';
+@import 'base/grid';
+@import 'base/forms';
+@import 'base/buttons';
+@import 'base/modals';
+
+@import 'modules/header';
+@import 'modules/footer';
+@import 'modules/s-home-intro';
+
+@import 'pages/home';

@@ -1,0 +1,28 @@
+$gutter: 16px;
+$gutter--small: 3px;
+$container_width: calc(1236px + 32px);
+
+$breakpoints: (
+	'xxl': (max-width: 1680px),
+	'xl': (max-width: 1440px),
+	'c': (max-width: $container_width),
+	'l': (max-width: 1024px),
+	'm': (max-width: 768px),
+	's': (max-width: 680px),
+	'xs': (max-width: 480px),
+	'xxs': (max-width: 375px),
+);
+
+$font: 'Muller', Segoe Ui, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+$font-icon: 'ags-icons';
+
+
+
+$black: #0F0F0F;
+$blue: #3182E6;
+$orange: #FA6655;
+$gray-border: #eeeeee;
+$gray-bg: #EDF0F5;
+$gray-text: #8f8f8f;
+
+$shadow-for-block: 0 12px 34px rgba(0, 0, 0, 0.1);
