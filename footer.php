@@ -48,7 +48,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="js/assets.js" type="text/javascript"></script>
-<script src="js/main.js?v=2" type="text/javascript"></script>
+<script src="js/main.js?v=3" type="text/javascript"></script>
 
 	</body>
 </html>
